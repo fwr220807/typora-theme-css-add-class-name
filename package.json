@@ -1,0 +1,17 @@
+{
+	"name": "typora-theme-css-add-class-name",
+	"version": "1.0.0",
+	"description": "a util that can add css class name in typora theme css",
+	"keywords": [
+		"typora",
+		"css",
+		"markdown"
+	],
+	"main": "index.js",
+	"scripts": {
+		"exec": "node ./index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "fwr583251832",
+	"license": "ISC"
+}
