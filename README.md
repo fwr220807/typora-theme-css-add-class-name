@@ -25,3 +25,4 @@ npm run exec ./example.css
 
 # License
 
+[WTFPL](https://github.com/fwr220807/typora-theme-css-add-class-name/blob/main/LICENSE)
